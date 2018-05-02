@@ -9,12 +9,9 @@ Sleek, responsive To-do list application
 
 
 ### Ready to add an item?
-<p>
-    <img src="/assets/img/screen1.png" width="220" height="240" />
-</p>
+![Screenshot](./assets/img/screen1.png)
 
 
 ### Cross it off when you're finished with it, or delete it when you're "Done" with it.
-<p>
-    <img src="/assets/img/screen2.png" width="220" height="240" />
-</p>
+![Screenshot](./assets/img/screen1.png)
+
