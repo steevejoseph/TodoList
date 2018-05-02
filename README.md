@@ -9,7 +9,7 @@ Sleek, responsive To-do list application
 
 
 ### Ready to add an item?
-![Screenshot](assets/img/screen1.png)
+![Screenshot](/assets/img/screen1.png)
 
 ### Cross it off when you're finished with it, or delete it when you're "Done" with it.
-![Screenshot](assets/img/screen2.png)
+![Screenshot](/assets/img/screen2.png)
